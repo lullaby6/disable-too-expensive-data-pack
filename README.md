@@ -9,7 +9,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/disable-too-expensive-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/disable-too-expensive-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/disable-too-expensive-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/disable-too-expensive-data-pack/stargazers)
 
-A simple datapack to remove the `Too Expensive` from anvils!
+A simple datapack to remove the `Too Expensive` from items/anvils!
 
 You need to select the item with the cursor to remove the `Too Expensive` message.
 
